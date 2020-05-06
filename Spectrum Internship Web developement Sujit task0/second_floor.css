@@ -1,0 +1,202 @@
+body {
+	background-image: url(Second_Floor.jpg);
+	background-repeat: no-repeat;
+	border:2px dashed black;
+	margin-left: 155px;
+	margin-top: 0px;
+	height: 700px;
+	width: 1030px;
+	overflow: scroll;
+	background-position: 155px 0px;
+}
+
+.bs {
+	border: 5px solid black;
+	border-left: 8px solid black;
+	height: 90px;
+	width: 102px;
+	position: absolute;
+	margin-left: 215px;
+	margin-top: 0px;
+	background-color: rgb(255,135,40);
+	color: white;
+}
+
+.cs {
+	border: 5px solid black;
+	border-left: 8px solid black;
+	height: 96px;
+	width: 102px;
+	position: absolute;
+	margin-left: 215px;
+	margin-top: 98px;
+	background-color: rgb(255,135,40);
+	color: white;
+}
+
+.ds {
+	border: 5px solid black;
+	border-left: 8px solid black;
+	height: 105px;
+	width: 102px;
+	position: absolute;
+	margin-left: 215px;
+	margin-top: 190px;
+	background-color: rgb(255,135,40);
+	color: white;
+}
+
+.es {
+	border: 5px solid black;
+	border-right: 7px solid black;
+	height: 90px;
+	width: 110px;
+	position: absolute;
+	margin-left: 434px;
+	margin-top: 0px;
+	background-color: rgb(255,135,40);
+	color: white;
+}
+
+.ms {
+	border: 5px solid black;
+	border-left: 8px solid black;
+	height: 65px;
+	width: 102px;
+	position: absolute;
+	margin-left: 215px;
+	margin-top: 295px;
+	background-color: rgb(230,30,35);
+	color: white;
+}
+
+.fs {
+	border: 5px solid black;
+	border-left: 8px solid black;
+	height: 77px;
+	width: 102px;
+	position: absolute;
+	margin-left: 215px;
+	margin-top: 370px;
+	background-color: rgb(150,25,30);
+	color: white;
+}
+
+.gs {
+	border: 5px solid black;
+	border-left: 8px solid black;
+	height: 160px;
+	width: 102px;
+	position: absolute;
+	margin-left: 215px;
+	margin-top: 455px;
+	background-color: rgb(0,160,460);
+	color: white;
+}
+
+.hs {
+	border: 5px solid black;
+	border-right: 7px solid black;
+	height: 92px;
+	width: 110px;
+	position: absolute;
+	margin-left: 434px;
+	margin-top: 98px;
+	background-color: rgb(255,135,40);
+	color: white;
+}
+
+.is {
+	border: 5px solid black;
+	border-right: 7px solid black;
+	height: 97px;
+	width: 110px;
+	position: absolute;
+	margin-left: 434px;
+	margin-top: 202px;
+	padding-top: 60px;
+	background-color: rgb(255,135,40);
+	color: white;
+}
+
+.js {
+	border: 5px solid black;
+	border-right: 7px solid black;
+	height: 97px;
+	width: 180px;
+	position: absolute;
+	margin-left: 434px;
+	margin-top: 370px;
+	padding-top: 60px;
+	background-color: rgb(185,235,35);
+	color: white;
+}
+
+.ks {
+	border: 5px solid black;
+	border-right: 7px solid black;
+	height: 130px;
+	width: 110px;
+	position: absolute;
+	margin-left: 620px;
+	margin-top: 375px;
+	padding-top: 20px;
+	background-color: rgb(0,160,460);
+	color: white;
+}
+
+.ls {
+	border: 5px solid black;
+	border-right: 7px solid black;
+	height: 130px;
+	width: 125px;
+	position: absolute;
+	margin-left: 733px;
+	margin-top: 375px;
+	padding-top: 20px;
+	background-color: rgb(0,160,460);
+	color: white;
+	text-align: center;
+}
+
+.ns {
+	border: 5px solid black;
+	border-right: 7px solid black;
+	height: 76px;
+	width: 165px;
+	position: absolute;
+	margin-left: 695px;
+	margin-top: 590px;
+	padding-top: 20px;
+	background-color: rgb(0,160,460);
+	color: white;
+	text-align: center;
+}
+
+.os {
+	border: 5px solid black;
+	border-right: 7px solid black;
+	height: 76px;
+	width: 125px;
+	position: absolute;
+	margin-left: 565px;
+	margin-top: 590px;
+	padding-top: 20px;
+	background-color: rgb(0,160,460);
+	color: white;
+	text-align: center;
+}
+
+.ps {
+	border: 5px solid black;
+	border-right: 7px solid black;
+	height: 76px;
+	width: 65px;
+	position: absolute;
+	margin-left: 495px;
+	margin-top: 590px;
+	padding-top: 20px;
+	background-color: rgb(230,30,35);
+	color: white;
+	text-align: center;
+}
